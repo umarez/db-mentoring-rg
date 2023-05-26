@@ -83,5 +83,5 @@ func main() {
 
 	db.Create(&employees)
 
-	fmt.Println("Migration Success")
+	fmt.Println("Insertion Success")
 }
